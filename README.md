@@ -1,2 +1,2 @@
 # PythonPractice
-一些在工作或生活中用Python写的小工具集，不稳定更新中
+![maven](https://img.shields.io/badge/Language-Python-yellow.svg)(https://redis.io/)
