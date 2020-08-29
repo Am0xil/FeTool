@@ -1,2 +1,2 @@
 # PythonPractice
-一些在工作或生活中用Python写的小工具集，不稳定更新中
+![](https://img.shields.io/badge/Language-Python-yellow.svg)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Author-Am0xil-blue.svg)   
