@@ -4,7 +4,6 @@
 <h6 align="center">多功能工具箱，内容五花八门，不稳定更新中</h6>
 <div align=center><img src="https://img.shields.io/badge/Language-Python-yellow.svg">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Author-Am0xil-blue.svg"></div>  
   
-### 前言
-----
-这是一个
+## 前言
+顾名思义，这是一个记录作者
 
