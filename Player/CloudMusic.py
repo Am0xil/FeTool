@@ -23,11 +23,9 @@ def get_random():
 
 # AES加密要求加密的文本长度必须是16的倍数，密钥的长度固定只能为16,24或32位，因此我们采取统一转换为16位的方法
 def len_change(text):
-    # 首先将数据转换为字节型数据
-    text = text.encode()
-    # 循环判断长度是否为16的倍数，如不满足，则在末尾添加字符
-    while len(text) % 16 != 0:
-        text += b'\x02'
+    pad = 16 - len(text) % 16
+    text = text + pad * chr(pad)
+    text = text.encode("utf-8")
     return text
 
 
