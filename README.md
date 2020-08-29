@@ -4,6 +4,12 @@
 <div align=center><img src="https://img.shields.io/badge/Language-Python-yellow.svg">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Author-Am0xil-blue.svg"></div>
 
 ## 前言
-<p><font color="blue" face="微软雅黑">这是一个不知道为什么要做，不知道怎么做，做出来了不知道怎么用的工具箱</font></p>
+<font color="blue" face="微软雅黑">这是一个不知道为什么要做，不知道怎么做，做出来了不知道怎么用的工具箱</font>
+<style>
+.back {
+  background-color: #e2e2e2;
+  padding: 20px;
+}
+</style>
+<div class="back" style="width:200px;">这里是Markdown内部HTML代码运行实例</div>
 
-<div><font color=gray size=15>gray</font></div>
