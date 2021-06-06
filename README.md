@@ -1,16 +1,15 @@
 <div align=center><img src="https://ftp.bmp.ovh/imgs/2020/08/46341119c90d5ae8.png" width="500px" heigth = "200px"></div><br> 
-<h1 align="center">PythonPractice</h1>
-<h6 align="center">多功能工具箱，内容五花八门，不稳定更新中</h6>
+<h1 align="center">AmToolkit</h1>
+<h6 align="center">花里胡哨工具箱，内容五花八门，不稳定更新中</h6>
 <div align=center><img src="https://img.shields.io/badge/Language-Python-yellow.svg">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Author-Am0xil-blue.svg"></div><br/>
 
 ## 前言
 <font color="blue" face="微软雅黑">一款不知道为什么要做，不知道怎么做，做出来了不知道怎么用的工具箱</font>
 
 ## 特点
- - 代码风格混乱
- - 逻辑混乱
- - 这条是为了凑数的
- 
+ - 不堪入目：一眼就能看出来是个Java程序员写的Python代码
+ - 逻辑混乱：别跟我谈什么代码优雅美观，老夫写Python只遵循一个宗旨---又不是不能用
+ - To Be continued...
 ## 更新日志
 
 ### v0.0.1(2020.08.25)
